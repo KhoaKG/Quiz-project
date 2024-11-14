@@ -48,62 +48,6 @@
       "fullname": "123",
       "token": "Pg1a5LZnqdBZIx03XkE6f",
       "id": 7
-    },
-    {
-      "name": "Nguyễn Nhật Khoa",
-      "value": "nhatkhoa19102005@gmail.com",
-      "fullname": "123",
-      "token": "GP9xyYtoS4SwkMnuSgeL5",
-      "id": 8
-    },
-    {
-      "name": "Nguyễn Nhật Khoa",
-      "value": "nhatkhoa19102005@gmail.com",
-      "fullname": "",
-      "token": "DGfxO77pM2hfwtMBvKrA0",
-      "id": 9
-    },
-    {
-      "name": "Nguyễn Nhật Khoa",
-      "value": "nhatkhoa19102005@gmail.com",
-      "fullname": "123",
-      "token": "biMn4hsnrTYe6NnZBn4Zp",
-      "id": 10
-    },
-    {
-      "name": "Nguyễn Nhật Khoa",
-      "value": "nhatkhoa19102005@gmail.com",
-      "fullname": "123",
-      "token": "e6Jl5GgjM5kI27eZymmjj",
-      "id": 11
-    },
-    {
-      "name": "Nguyễn Nhật Khoa",
-      "value": "nhatkhoa19102005@gmail.com",
-      "fullname": "123",
-      "token": "5733E55LELrnsHQAvhNoJ",
-      "id": 12
-    },
-    {
-      "fullname": "Nguyễn Nhật Khoa",
-      "email": "nhatkhoa19102005@gmail.com",
-      "value": "123",
-      "token": "RlkkziZkIpnoqXFSYEucd",
-      "id": 13
-    },
-    {
-      "fullname": "Nguyễn Nhật Khoa",
-      "email": "nhatkhoa19102005@gmail.com",
-      "password": "123",
-      "token": "xVlqdqVdnR5KEeq4iJlZH",
-      "id": 14
-    },
-    {
-      "fullname": "Nguyễn Nhật Khoa",
-      "email": "nhatkhoa19102005@gmail.com",
-      "password": "nhatkhoa19102005",
-      "token": "612T7Jn2pQu4eMvNAygMI",
-      "id": 15
     }
   ],
   "topics": [
@@ -151,6 +95,222 @@
         "Microsoft"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "topicId": 1,
+      "question": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
+      "answers": [
+        "<h6>",
+        "<h1>",
+        "<head>",
+        "<heading>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "topicId": 1,
+      "question": "Thẻ nào dùng để xuống dòng trong HTML?",
+      "answers": [
+        "<enter>",
+        "<br>",
+        "<break>",
+        "<lb>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "topicId": 1,
+      "question": "Chọn thẻ HTML chính xác dùng để xác định văn bản quan trọng",
+      "answers": [
+        "<important>",
+        "<strong>",
+        "<b>",
+        "<i>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "topicId": 2,
+      "question": "CSS là viết tắt của?",
+      "answers": [
+        "Creative Style Sheets",
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 7,
+      "topicId": 2,
+      "question": "Thuộc tính nào định nghĩa CSS ngay trong 1 tag?",
+      "answers": [
+        "font",
+        "class",
+        "style",
+        "styles"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 8,
+      "topicId": 2,
+      "question": "Đặt dòng liên kết với file CSS ở vùng nào trong file HTML?",
+      "answers": [
+        "Trong thẻ <body>",
+        "Trong thẻ <head>",
+        "Ở cuối file HTML",
+        "Ở đầu file HTML"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "topicId": 2,
+      "question": "Đâu là những tag dành cho việc tạo bảng?",
+      "answers": [
+        "<table><tr><td>",
+        "<thead><body><tr>",
+        "<table><head><tfoot>",
+        "<table><tr><tt>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 10,
+      "topicId": 2,
+      "question": "Đâu là tag tạo ra 1 danh sách đứng đầu bằng số",
+      "answers": [
+        "<ul>",
+        "<list>",
+        "<ol>",
+        "<dl>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 11,
+      "topicId": 3,
+      "question": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+      "answers": [
+        "Khi bắt đầu chương trình chạy",
+        "Khi click chuột",
+        "Khi kết thúc một chương trình",
+        "Khi di chuyển chuột qua"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 12,
+      "topicId": 3,
+      "question": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+      "answers": [
+        "Khi một đối tượng trong form mất focus",
+        "Khi một đối tượng trong form có focus",
+        "Khi di chuyển con chuột qua form",
+        "Khi click chuột vào nút lệnh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 13,
+      "topicId": 3,
+      "question": "Trong Javascript sự kiện OnMouseOver thực hiện khi nào?",
+      "answers": [
+        "Khi một đối tượng trong form mất focus",
+        "Khi một đối tượng trong form có focus",
+        "Khi di chuyển con chuột qua một đối tượng trong form",
+        "Khi click chuột vào nút lệnh"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 14,
+      "topicId": 3,
+      "question": "Trong Javascript sự kiện Onclick xảy ra khi nào?",
+      "answers": [
+        "Khi một đối tượng trong form mất focus",
+        "Khi một đối tượng trong form có focus",
+        "Khi click chuột vào một đối tượng trong form",
+        "Khi click chuột vào nút lệnh"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 15,
+      "topicId": 3,
+      "question": "Trong Javascript sự kiện Onchange thực hiện khi nào?",
+      "answers": [
+        "Khi một đối tượng trong form mất focus",
+        "Khi một đối tượng trong form có focus",
+        "Xảy ra khi giá trị của một trường trong form được người dùng thay đổi",
+        "Khi click chuột vào nút lệnh"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 16,
+      "topicId": 4,
+      "question": "ReactJS được phát triển bởi công ty nào?",
+      "answers": [
+        "Google",
+        "Facebook",
+        "Microsoft",
+        "Amazon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 17,
+      "topicId": 4,
+      "question": "Thành phần chính của một ứng dụng React là gì?",
+      "answers": [
+        "Module",
+        "Controller",
+        "Service",
+        "Component"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "id": 18,
+      "topicId": 4,
+      "question": "Dùng câu lệnh nào để tạo một ứng dụng React mới?",
+      "answers": [
+        "npm start react-app",
+        "npx create-react-app",
+        "npm install react-app",
+        "npx init react"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 19,
+      "topicId": 4,
+      "question": "Phương pháp nào dưới đây dùng để truyền dữ liệu từ component cha sang component con?",
+      "answers": [
+        "Props",
+        "State",
+        "Function",
+        "State"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "topicId": 4,
+      "question": "Hook nào được sử dụng để quản lý state trong functional component?",
+      "answers": [
+        "useEffect",
+        "useContext",
+        "useState",
+        "useReducer"
+      ],
+      "correctAnswer": 3
     }
   ],
   "answers": [
@@ -360,6 +520,44 @@
         }
       ],
       "id": 15
+    },
+    {
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 0
+        },
+        {
+          "questionId": 2,
+          "answer": 1
+        }
+      ],
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 7,
+          "answer": 0
+        },
+        {
+          "questionId": 8,
+          "answer": 1
+        },
+        {
+          "questionId": 9,
+          "answer": 2
+        },
+        {
+          "questionId": 10,
+          "answer": 2
+        }
+      ],
+      "id": 17
     }
   ]
 }
